@@ -20,8 +20,8 @@ This Python script allows users to open a list of URLs from a text file in their
 
 1. Clone this repository or download the script file:
    ```bash
-   git clone https://github.com/your-username/url-opener-script.git
-   cd url-opener-script
+   git clone https://github.com/flo-dev-create/URL-Opener-Script.git
+   cd URL-Opener-Script
    ```
 
 2. Ensure Python 3.x is installed on your system. You can check by running:
